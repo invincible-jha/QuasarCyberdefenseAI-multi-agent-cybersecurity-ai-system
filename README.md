@@ -1,2 +1,1 @@
-# QuasarCyberdefenseAI-multi-agent-cybersecurity-ai-system
-A repository for multi-agent AI system for cybersecurity defense
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
